@@ -1,6 +1,6 @@
 # Hi there, I'm Jamie Shorey 👋
 
-![Banner Image](placeholder)
+![Banner Image](/Images/github-header-image.png)
 
 ## About Me 🚀
 
