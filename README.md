@@ -25,13 +25,13 @@ I'm passionate **IT Uni Graduate** with a **2:1** in **BSc IT and Software Devel
 
 ### [My Final Year Project - BSc](https://github.com/bodinbuster/Project)
 
-![My Final Year Project - BSc Screenshot](url_placeholder)
+![My Final Year Project - BSc Screenshot](/Images/BSc-Final-Year-Project-Screenshot.png)
 
 **My Final Year Project - BSc** is a **Company Website with Login System** built with **HTML, CSS, PHP, and MySQL**. This project demostrates my abilities to **code with PHP and HTML to produce a professional looking website**. You can check out this repository [here](https://github.com/bodinbuster/Project).
 
 ### [AilurusBot - Discord Bot](https://github.com/bodinbuster/AilurusBot)
 
-![AilurusBot - Discord Bot Screenshot](url_placeholder)
+![AilurusBot - Discord Bot Screenshot](/Images/AilurusBot-Discord-Bot-Screenshot.png)
 
 **AilurusBot** is a **Discord Bot** built with **Python using DiscordAPI**. This project demostrates my abilities to **code with Python to make a basic bot with multiple functions. And that I understand accessing APIs**. You can check out this repository [here](https://github.com/bodinbuster/AilurusBot).
 
