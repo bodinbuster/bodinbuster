@@ -37,7 +37,7 @@ I'm passionate **IT Uni Graduate** with a **2:1** in **BSc IT and Software Devel
 
 ## Get In Touch 📬
 
-- **[LinkedIn]**(www.linkedin.com/in/jamie-shorey-20b884255)
+- **[LinkedIn](www.linkedin.com/in/jamie-shorey-20b884255)**
 
 <!--
 **bodinbuster/bodinbuster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
