@@ -16,8 +16,8 @@ I'm passionate **IT Uni Graduate** with a **2:1** in **BSc IT and Software Devel
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-00758f?style=flat-square&logo=sql&logoColor=white)
-![JS](https://img.shields.io/badge/-JS-F0DB4F?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-4584B6?style=flat-square&logo=python&logoColor=white)
 
 <!--
