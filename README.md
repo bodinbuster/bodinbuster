@@ -1,4 +1,4 @@
-# Hi there, I'm Jamie Shorey 👋
+# Welcome! 👋
 
 ![Banner Image](/Images/github-header-image.png)
 
